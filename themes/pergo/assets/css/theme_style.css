@@ -654,7 +654,7 @@ section.section-3.subscribe-form .input-group-append{
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background-image: url(../images/bg_auth.jpg);
+/*   background-image: url(../images/bg_auth.jpg); */
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
