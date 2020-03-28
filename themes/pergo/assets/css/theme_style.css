@@ -642,7 +642,23 @@ section.section-3.subscribe-form .input-group-append{
 }
 
 
-
+.auth-login-form{
+  width: 100%;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-image: url(../images/bg_auth.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
 
 .auth-login-form .form-login{
   width: 500px;
